@@ -3,6 +3,7 @@
 A simple Command Line Interface (CLI) expense tracking application built with Python.  
 This project allows users to add, update, delete, list, and summarize expenses directly from the terminal.
 
+project link: https://roadmap.sh/projects/expense-tracker
 ---
 
 ## 🚀 Features
