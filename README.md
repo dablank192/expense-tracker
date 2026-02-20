@@ -22,7 +22,7 @@ project link: https://roadmap.sh/projects/expense-tracker
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/dablank192/expense-tracker.git
 cd expense-tracker
 ```
 
